@@ -1,0 +1,8 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["okqin <jiqin@outlook.com>"]
+publish = false
+edition = "2021"
+
+[dependencies]
